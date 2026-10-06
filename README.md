@@ -11,3 +11,11 @@ This checkout currently contains a README rather than executable project code. T
 
 This repository is currently empty — it contains no source files yet, only
 Git metadata. This README is a placeholder until real content is added.
+
+## Documentation checks
+
+Project architecture, interview guides, and local source links are checked automatically on pushes and pull requests. Run the same check locally:
+
+```bash
+python3 .github/scripts/validate_project_docs.py
+```
