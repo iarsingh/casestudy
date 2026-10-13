@@ -1,5 +1,12 @@
 # casestudy
 
+## Overview
+
+An empty placeholder for a future case study. At the moment it holds no source files, only Git metadata and a short README saying so. There is no code, data or documentation to run or review yet, and this overview will be replaced once real content is added to the repository.
+
+- **Built with:** Nothing yet; no code has been committed
+- **Scope:** Empty placeholder with no working project.
+
 <!-- project-guide:start -->
 ## Project guide
 
